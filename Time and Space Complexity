@@ -1,0 +1,24 @@
+TIME AND SPACE COMPLEXITY
+-------------------------
+
+Time Complexity -> Time taken by a particular code w.r.t input size.
+--------------------------------------------------------------------
+Order of increasing time complexity
+O[1] < O[logN] < O[N] < O[NlogN] < O[N^2] < O[N^3] < O[2^N]
+
+-------------------------------------------------------------------
+Big O Notation -> Worst case time complexity // Omega -> Best  and Theta -> Average
+1. Avoid Lower values
+2. Avoid constants
+3. Calculate worst case time
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Space Complexity -> Auxilary space(space taken to solve the oproblem) + input space(to store the problem)
+
+=> variable takes -> O[1] space
+=> constant loop takes -> O[1] space
+=> never ever manipulate the data! 
+
+---------------------------------------------------------------------------------------------------------
+In CP -> in 1 sec only 10^8 operations can be tested , else it will TLE  
