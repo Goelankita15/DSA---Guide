@@ -23,3 +23,4 @@ int longestSubarrayWithSumK(vector<int> a, long long k) {
     }
     return maxLen;  
 }
+//Tc -> O[n+Nn]
