@@ -53,3 +53,5 @@ void sortArray(vector<int>& arr, int n)
     }
 }
 
+TC -> O[N] 
+SC -> O[1]
