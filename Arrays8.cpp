@@ -43,3 +43,4 @@ Traverse through the given array.
 	}
 	else return -1;
 }
+TC -> O[N]
