@@ -21,3 +21,7 @@ long long maxSubarraySum(int arr[], int n)
     }
     return maxSum;
 }
+//To get that subarray
+
+put a start = i when sum == 0
+    and when u get a maximum pudate ansstart = start and ansend = i;
